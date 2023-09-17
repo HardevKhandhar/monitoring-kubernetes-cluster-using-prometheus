@@ -124,6 +124,14 @@ kubectl get all -A
 
 Now that you have a running Kubernetes cluster, you can proceed to set up monitoring and access the Kubernetes Dashboard as per the instructions provided in the respective directories.
 
+## Useful Links
+
+- [Official Kubernetes Documentation](https://kubernetes.io/docs/)
+- [Prometheus Documentation](https://prometheus.io/docs/)
+- [Grafana Documentation](https://grafana.com/docs/)
+- [Kubernetes Dashboard GitHub Repository](https://github.com/kubernetes/dashboard/)
+- [kind: Kubernetes in Docker](https://kind.sigs.k8s.io/)
+
 ---
 
 Thank you!
